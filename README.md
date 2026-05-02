@@ -3,7 +3,7 @@ An unofficial 3D icon pack for Linux GNOME inspired by the default Adwaita icons
 
 ![Desktop Preview](./preview.png)
 
-This project is not affiliated with or endorsed by the GNOME Foundation.
+This project is NOT affiliated with or endorsed by the GNOME Foundation or any other 3rd party.
 
 ## Credits & Resources
 * **Models & Renders:** Created entirely from scratch by me, Zachary Stofko.
