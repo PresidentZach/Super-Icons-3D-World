@@ -1,9 +1,9 @@
 # Super Icons 3D World
 An unofficial 3D icon pack for Linux GNOME inspired by the default Adwaita icons.
 
-This project is not affiliated with or endorsed by the GNOME Foundation.
-
 ![Desktop Preview](./preview.png)
+
+This project is not affiliated with or endorsed by the GNOME Foundation.
 
 ## Credits & Resources
 * **Models & Renders:** Created entirely from scratch by me, Zachary Stofko.
